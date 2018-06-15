@@ -1,8 +1,7 @@
-.blueBox {
-  border-radius: 25px;
-    background: #5BABE6;
-    padding: 20px; 
-    width: 91%;
-    margin: 50px;
-    height: 750px; 
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px #5BABE6;
+    padding: 25px;
+    margin: 25px;
 }
